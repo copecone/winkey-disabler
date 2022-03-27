@@ -1,2 +1,7 @@
 venv/*
-output/*
+__pycache__/*
+
+# PyInstaller
+dist/*
+build/*
+main.spec
